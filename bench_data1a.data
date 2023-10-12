@@ -1,0 +1,53 @@
+   1   1 377   3   4  99   0   1   0   0   0   1   1   3   1   0   0   0   0   
+  16  32
+  30  10
+-1.0 0.0 .01 0.4 0.0 1.0 3.0
+     100    9999 .15     .09   1   0   0   1
+       R
+       Y
+       K
+       C
+      Y1
+      Y2
+      K1
+      K2
+      C1
+      C2
+      N1
+      N2
+      P1
+      P2
+      A1
+      A2
+  R_base
+  Y_base
+  K_base
+  C_base
+ Y1_base
+ Y2_base
+ K1_base
+ K2_base
+ C1_base
+ C2_base
+ N1_base
+ N2_base
+ P1_base
+ P2_base
+ A1_base
+ A2_base
+     TAU 
+       A
+       P
+    SH_Y
+    SH_K
+    SH_C
+   SH_C1
+   SH_C2
+   SH_N1
+   SH_N2
+  Credit
+    None
+     EK1
+     EK2
+     EC1
+     EC2
